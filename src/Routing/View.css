@@ -1,0 +1,8 @@
+.profile-container{
+    border: 1px solid black;
+    text-align: center;
+    align-items: center;
+    height: 300px;
+    width: 400px;
+    margin: auto;
+}
